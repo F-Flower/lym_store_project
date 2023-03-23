@@ -1,0 +1,2 @@
+# lym_store_project
+基于uniapp写的一款商城系统demo
