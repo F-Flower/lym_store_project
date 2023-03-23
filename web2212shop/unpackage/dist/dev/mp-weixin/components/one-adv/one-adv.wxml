@@ -1,0 +1,1 @@
+<view class="one-adv data-v-6926199e"><block wx:if="{{title}}"><view class="my-1 data-v-6926199e">{{title}}</view></block><block wx:if="{{cover}}"><view class="product-image data-v-6926199e"><image class="one-advimage data-v-6926199e" src="{{cover}}" mode="heightFix"></image></view></block><slot></slot></view>

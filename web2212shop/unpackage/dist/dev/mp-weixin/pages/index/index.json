@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "search-slot": "/components/search-slot/search-slot",
+    "swiper-banner": "/components/swiper-banner/swiper-banner",
+    "fast-nav": "/components/fast-nav/fast-nav",
+    "divider": "/components/divider/divider",
+    "three-adv": "/components/three-adv/three-adv",
+    "one-adv": "/components/one-adv/one-adv",
+    "common-list": "/components/common-list/common-list"
+  }
+}

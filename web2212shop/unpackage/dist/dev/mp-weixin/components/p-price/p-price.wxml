@@ -1,0 +1,1 @@
+<view class="d-flex data-v-391bcb5e"><view class="newprice mr-1 data-v-391bcb5e"><slot name="newprice"></slot></view><view class="oldprice data-v-391bcb5e"><slot name="oldprice"></slot></view></view>

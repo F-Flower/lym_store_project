@@ -1,0 +1,9 @@
+
+.newprice.data-v-391bcb5e {
+	color:#f60;
+}
+.oldprice.data-v-391bcb5e {
+	color:#ccc;
+	text-decoration: line-through;
+}
+

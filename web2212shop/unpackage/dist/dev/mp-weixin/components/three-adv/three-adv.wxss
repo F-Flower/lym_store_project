@@ -1,0 +1,13 @@
+
+.threeadv.data-v-3df2504e {
+	height: 460rpx;
+}
+.threeadv .left-adv.data-v-3df2504e {
+	width: 375rpx;
+	height: 460rpx !important;
+}
+.adv-right image.data-v-3df2504e {
+	width: 375rpx;
+	height: 230rpx !important;
+}
+

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "p-price": "/components/p-price/p-price"
+  },
+  "component": true
+}

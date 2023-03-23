@@ -1,0 +1,35 @@
+
+.list.data-v-01770df4 {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	/* text-indent: 10rpx; */
+}
+.list .listshow.data-v-01770df4 {
+	width: 50%;
+	margin: 10rpx 0;
+}
+.list .listshow image.data-v-01770df4 {
+	max-width: 100%;
+	display: block;
+	margin: 0 auto;
+}
+.list .listshow view.data-v-01770df4 {
+	white-space: normal;
+	word-break: break-all;
+	word-warp: break-word;
+	font-size: 28rpx;
+}
+.list .listshow .title.data-v-01770df4 {
+	display: inline-block;
+	/* padding:16rpx 0 10rpx 0; */
+	font-size: 32rpx;
+	font-weight: 700;
+}
+.money.data-v-01770df4 {
+	font-size: 20rpx;
+}
+.price.data-v-01770df4 {
+	font-weight: 900;
+}
+

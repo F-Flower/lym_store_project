@@ -1,0 +1,15 @@
+
+.product-image.data-v-6926199e {
+	height: 150px;
+	position: relative;
+	overflow: hidden;
+}
+.one-advimage.data-v-6926199e {
+	position: absolute;
+	top: 50%;
+	left: 0;
+	width: 100%;
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+

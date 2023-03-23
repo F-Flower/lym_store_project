@@ -1,0 +1,1 @@
+<view class="search-input d-flex px-2 j-sb a-center data-v-777adde8"><block wx:if="{{$slots.left}}"><slot name="left"></slot></block><block wx:else>1122</block><slot name="center"></slot><slot name="right"></slot></view>
